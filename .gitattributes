@@ -1,0 +1,2 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+VID_20230707_093539.mp4 filter=lfs diff=lfs merge=lfs -text
